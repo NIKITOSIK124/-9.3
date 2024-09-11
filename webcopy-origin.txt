@@ -1,0 +1,264 @@
+Uri: https://dzhankoy.planeta-komforta.com/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/bitrix/cache/css/arturgolubev.cssinliner/v551_we/css_united/868a951e1da90165b0c724dab10d584d.css
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\bitrix\cache\css\arturgolubev.cssinliner\v551_we\css_united\868a951e1da90165b0c724dab10d584d.css
+Content Type: text/css
+
+Uri: https://dzhankoy.planeta-komforta.com/bitrix/templates/aspro_max/css/print.css?168891995423591
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\bitrix\templates\aspro_max\css\print.css
+Content Type: text/css
+
+Uri: https://dzhankoy.planeta-komforta.com/bitrix/templates/aspro_max/images/loaders/double_ring.svg
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\bitrix\templates\aspro_max\images\loaders\double_ring.svg
+Content Type: image/svg+xml
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-gostinoy/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-gostinoy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-gostinoy/gostinye-modulnye/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-gostinoy\gostinye-modulnye\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-gostinoy/gostinye-so-shkafom/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-gostinoy\gostinye-so-shkafom\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-gostinoy/penaly/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-gostinoy\penaly\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-gostinoy/shkafy-dlya-knig/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-gostinoy\shkafy-dlya-knig\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-gostinoy/stenki-v-gostinuyu/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-gostinoy\stenki-v-gostinuyu\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-gostinoy/tumby-tv/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-gostinoy\tumby-tv\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-gostinoy/vitriny/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-gostinoy\vitriny\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/aksessuary-dlya-kukhon/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\aksessuary-dlya-kukhon\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/kukhni-gotovye/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\kukhni-gotovye\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/kukhni-individualnogo-izgotovleniya/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\kukhni-individualnogo-izgotovleniya\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/kukhni-modulnye/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\kukhni-modulnye\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/kukhni-nabory-komplekty/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\kukhni-nabory-komplekty\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/kukhonnye-shkafy-dlya-vytyazhki/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\kukhonnye-shkafy-dlya-vytyazhki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/kukhonnye-shkafy-so-steklom/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\kukhonnye-shkafy-so-steklom\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/kukhonnye-tumby-kargo-butylochnitsa/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\kukhonnye-tumby-kargo-butylochnitsa\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/kukhonnye-ugolki/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\kukhonnye-ugolki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/moyki/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\moyki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/nedorogie-kukhni/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\nedorogie-kukhni\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/penaly-dlya-kukhni/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\penaly-dlya-kukhni\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/shkaf-pod-dukhovku-kukhonnuyu/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\shkaf-pod-dukhovku-kukhonnuyu\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/smesiteli_1/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\smesiteli_1\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/stenovye-paneli-fartuk/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\stenovye-paneli-fartuk\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/stoleshnitsy/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\stoleshnitsy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/tumby-pod-moyku-na-kukhnyu/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\tumby-pod-moyku-na-kukhnyu\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-kukhni/uglovye-kukhni/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-kukhni\uglovye-kukhni\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-spalni/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-spalni\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-spalni/krovati/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-spalni\krovati\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-spalni/spalnye-garnitury-po-kollektsiyam/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-spalni\spalnye-garnitury-po-kollektsiyam\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-spalni/spalnye-garnitury/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-spalni\spalnye-garnitury\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-spalni/stoliki-tualetnye/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-spalni\stoliki-tualetnye\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/mebel-dlya-spalni/tryumo/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\mebel-dlya-spalni\tryumo\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/banketki/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\banketki\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/beskarkasnaya-mebel/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\beskarkasnaya-mebel\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divan-akkordion/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divan-akkordion\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divan-delfin/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divan-delfin\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divan-klik-klyak/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divan-klik-klyak\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divan-knizhka/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divan-knizhka\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divan-krovat/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divan-krovat\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divan-puma/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divan-puma\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divan-sofa/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divan-sofa\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divan-takhta/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divan-takhta\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divany-detskie/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divany-detskie\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divany-evroknizhka/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divany-evroknizhka\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divany-neraskladnye/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divany-neraskladnye\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divany-pryamye/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divany-pryamye\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divany-uglovye/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divany-uglovye\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/divany/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\divany\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/komplekty-myagkoy-mebeli/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\komplekty-myagkoy-mebeli\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/kresla-k-divanam/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\kresla-k-divanam\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/kresla-krovati/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\kresla-krovati\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/nedorogie-divany/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\nedorogie-divany\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/pufy/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\pufy\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/rasprodazha-divanov/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\rasprodazha-divanov\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/catalog/myagkaya-mebel/vykatnye-divany/
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\catalog\myagkaya-mebel\vykatnye-divany\index.htm
+Content Type: text/html
+
+Uri: https://dzhankoy.planeta-komforta.com/favicon.jpg
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\favicon.jpg
+Content Type: image/jpeg
+
+Uri: https://dzhankoy.planeta-komforta.com/upload/CMax/798/0is31vmbs15qq3fk0micg5wqjedhy4wd/Magazin-mebeli-Planeta-Komforta.png
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\upload\CMax\798\0is31vmbs15qq3fk0micg5wqjedhy4wd\Magazin-mebeli-Planeta-Komforta.png
+Content Type: image/png
+
+Uri: https://dzhankoy.planeta-komforta.com/upload/CMax/8b2/ug0czsv2ban8ene9elfecj1x3ggpxles/Planeta-Komforta-180kh180.jpg
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\upload\CMax\8b2\ug0czsv2ban8ene9elfecj1x3ggpxles\Planeta-Komforta-180kh180.jpg
+Content Type: image/jpeg
+
+Uri: https://dzhankoy.planeta-komforta.com/upload/iblock/454/lwy3molclzj28hmo0texnxj851cvhhia/Mebel-dlya-dachi.webp
+File Name: C:\Downloaded Web Sites\dzhankoy.planeta-komforta.com\upload\iblock\454\lwy3molclzj28hmo0texnxj851cvhhia\Mebel-dlya-dachi.webp
+Content Type: image/webp
+
